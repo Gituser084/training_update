@@ -21,3 +21,8 @@ Completed Katacoda scenarios as well. The scenario snapshots are also added in t
 
 Day 3:
 Completed HTML tutorial, exercises and the quiz for today.
+
+Day 4:
+Completed SQL, MySQL tutorial and the respective exercises and quiz.
+Finished JSON tutorial page and XML tutorial.
+Completed XML quiz as well. 
