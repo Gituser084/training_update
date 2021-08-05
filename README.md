@@ -17,3 +17,7 @@ Managing local and remote repository.
 How to create a branch, edit, merge in GitHub also to pull and push from/to to remote repository.
 Completed all the Git related topics today. 
 Completed Katacoda scenarios as well. The scenario snapshots are also added in the repository.
+
+
+Day 3:
+Completed HTML tutorial, exercises and the quiz for today.
