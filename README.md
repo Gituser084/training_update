@@ -26,3 +26,6 @@ Day 4:
 Completed SQL, MySQL tutorial and the respective exercises and quiz.
 Finished JSON tutorial page and XML tutorial.
 Completed XML quiz as well. 
+
+Day 5:
+Completed CSS tutorial and all the exercises and quiz.
