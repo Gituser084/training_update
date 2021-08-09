@@ -29,3 +29,7 @@ Completed XML quiz as well.
 
 Day 5:
 Completed CSS tutorial and all the exercises and quiz.
+
+Day 6:
+Completed Bootstrap tutorial, exercises and quiz.
+Learning JavaScript and completed 1st section of Javascript and 57 exercises.
