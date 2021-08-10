@@ -36,3 +36,4 @@ Learning JavaScript and completed 1st section of Javascript and 57 exercises.
 
 Day 7:
 Completed Javascript tutorial, all the exercises and quiz.
+Completed JQuery tutorial, exercises and quiz.
