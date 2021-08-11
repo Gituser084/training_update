@@ -37,3 +37,7 @@ Learning JavaScript and completed 1st section of Javascript and 57 exercises.
 Day 7:
 Completed Javascript tutorial, all the exercises and quiz.
 Completed JQuery tutorial, exercises and quiz.
+
+Day 8: 
+Completed Web development basics such as REST API ,HTTP, SOAP, client server architecture
+
