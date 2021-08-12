@@ -41,3 +41,5 @@ Completed JQuery tutorial, exercises and quiz.
 Day 8: 
 Completed Web development basics such as REST API ,HTTP, SOAP, client server architecture
 
+Day 9:
+Learning Python and completed some exercises in Python.
