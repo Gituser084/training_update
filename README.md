@@ -43,3 +43,6 @@ Completed Web development basics such as REST API ,HTTP, SOAP, client server arc
 
 Day 9:
 Learning Python and completed some exercises in Python.
+
+Day10: 
+Completed Python Exercises and quiz.
